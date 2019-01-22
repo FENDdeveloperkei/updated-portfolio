@@ -8,8 +8,11 @@
 }
 body {
     margin: 0;
-    font-size: 16px;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-image: url("https://github.com/FENDdeveloperkei/updated-portfolio/blob/master/butterfly%202019.gif?raw=");
+}
     
 }
 .header {
