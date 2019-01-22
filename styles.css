@@ -29,9 +29,9 @@ body {
 
 .responsive-img {
     display: flex;
-    margin: 50px auto;
+    margin: 30px auto;
     height: auto;
-    max-width: 85%;
+    max-width: 45%;
     padding: 10%;
     background-image: url("https://github.com/FENDdeveloperkei/readers-leaders/blob/master/backgrnd%20img18.PNG?raw=");
   }
@@ -45,7 +45,7 @@ body {
 }
 
 .photo img {
-  max-width: 55%;
+  max-width: 35%;
   height: auto;
 }
 
@@ -59,16 +59,16 @@ body {
 }
 
 .featured-item {
-    width: 200px;
-    height: 150px;
+    width: 50px;
+    height: 20px;
     border-radius: 4em;
 }
 .footer {
-    width: 100%;
+    width: 70%;
     font-size: 12px;
     border-top: 5px dashed #E500B8;
     padding: 1em;
-    width: 100%;
+    width: 60%;
     text-align: center;
     color: #aa7ecd;
     background: linear-gradient(160deg, #ffffff 30%, #98f9de 100%);
