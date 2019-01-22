@@ -8,16 +8,17 @@
 }
 body {
     margin: 0;
+    font-size: 16px;
     padding: 0;
     
 }
 .header {
     background-color: #80ffff;
     padding-top: 10px;
-    min-height: 70px;
+    min-height: 50px;
     border-bottom: black 8px dashed;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 
 .responsive-img {
@@ -43,11 +44,11 @@ body {
 }
 
 .featured-work {
-    margin-top: 30px;
+    margin-top: 150px;
 }
 
 .featured-item {
-    margin: 25px 0;
+    margin: 20px 0;
 }
 .footer {
     text-align: center
